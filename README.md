@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ige Ajibola</h1>
 <h3 align="center">A Results-oriented Front End web Developer dedicated to creating and optimizing interactive, user-friendly, and feature-rich websites. </h3>
 
-- 👨‍💻 All of my live projects are available at [https://jiboladestiny.netlify.app/](https://jiboladestiny.netlify.app/)
+- 👨‍💻 All of my live projects are available at [https://jhibola.netlify.app/](https://jiboladestiny.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
